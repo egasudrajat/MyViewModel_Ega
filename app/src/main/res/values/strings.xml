@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyView Model Ega</string>
+    <string name="insert_city">Masukan id kota misal  jakarta = 1642911</string>
+    <string name="jakarta_bandung_semarang">1642911,1650357,1627896</string>
+</resources>
